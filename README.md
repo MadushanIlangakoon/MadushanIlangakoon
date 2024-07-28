@@ -11,13 +11,13 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px"></picture>
 <br>
 
-Lecturer NVQ-ICTT 
-Master of Education (Reading) 
-Pg.Dip. in Strategic Management
-BSc (Hons) Computing(UG)
-HDip in Software Engineering
-Dip in Software Engineering
-
+Lecturer NVQ-ICTT <br>
+Master of Education (Reading) <br>
+Pg.Dip. in Strategic Management<br>
+BSc (Hons) Computing(UG)<br>
+HDip in Software Engineering<br>
+Dip in Software Engineering<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/madushan-ilangakoon" target="blank">
