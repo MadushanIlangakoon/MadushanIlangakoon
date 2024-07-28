@@ -7,7 +7,7 @@
 
 
 <br>	
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="75px"></picture><h3> <b>About me: </b></h3>
+<b>About me: </b></h3>
 
 <br>
 Lecturer NVQ-ICTT <br>
