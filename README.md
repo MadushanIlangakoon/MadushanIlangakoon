@@ -11,11 +11,13 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px"></picture>
 <br>
 
------------------------ <br>
------------------------ <br>
------------------------ <br>
------------------------ <br>
------------------------ <br>
+Lecturer NVQ-ICTT 
+Master of Education (Reading) 
+Pg.Dip. in Strategic Management
+BSc (Hons) Computing(UG)
+HDip in Software Engineering
+Dip in Software Engineering
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/madushan-ilangakoon" target="blank">
