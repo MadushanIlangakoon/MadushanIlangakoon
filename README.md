@@ -45,4 +45,4 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" class="icon"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-make this code more user friendly and  add some graphics for this
+
