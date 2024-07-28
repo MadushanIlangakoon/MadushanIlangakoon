@@ -17,7 +17,7 @@ BSc (Hons) Computing(UG)<br>
 HDip in Software Engineering<br>
 Dip in Software Engineering<br>
 <br>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/madushan-ilangakoon" target="blank">
   </a>
