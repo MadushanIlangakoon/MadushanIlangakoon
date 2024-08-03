@@ -12,7 +12,7 @@
 <br>
 Lecturer NVQ-ICTT-L4 / Higher Diploma in ICT <br>
 Master of Education SLQF-L10 (Reading) <br>
-Pg.Dip. in Strategic Management<br>
+Pg. Dip. in Strategic Management<br>
 BSc (Hons) Computing(UG)<br>
 HDip in Software Engineering<br>
 Dip in Software Engineering<br>
