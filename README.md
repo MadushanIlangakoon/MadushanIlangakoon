@@ -10,7 +10,7 @@
 <b>About me: </b></h3>
 
 <br>
-Lecturer NVQ-ICTT <br>
+Lecturer NVQ-ICTT-L4 / Higher Diploma in ICT <br>
 Master of Education (Reading) <br>
 Pg.Dip. in Strategic Management<br>
 BSc (Hons) Computing(UG)<br>
