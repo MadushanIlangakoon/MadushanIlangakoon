@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Madushan Ilangakoon</h1>
-<h3 align="center">IT student </h3>
+<h3 align="center">IT Professional </h3>
 
 
 <br>	
