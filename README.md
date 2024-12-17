@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently doing **Research**
 
-- 🧑‍🎓 I’m a Student at **NIBM** | **Kensley Graduate School** | **Horizon Campus** 
+- 🧑‍🎓 I’m a Student at **NIBM** | **Horizon Campus** 
 
 - 💬 Ask me about **Research**
 
