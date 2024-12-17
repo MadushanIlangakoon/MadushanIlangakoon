@@ -38,7 +38,9 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MadushanIlangakoon&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 <!-- Add another thing -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MadushanIlangakoon&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
 </td>
+
 </td>
 <td width="50%" align="center">
 
