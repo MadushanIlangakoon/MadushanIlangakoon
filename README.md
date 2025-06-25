@@ -54,7 +54,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/channel/kavishkamadushan1841" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kavishkamadushan1841" height="50" width="50" /></a>
+<a href="https://www.youtube.com/channel/kavishkamadushan1841" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="kavishkamadushan1841" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/madushan-ilangakoon" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="madushan-ilangakoon" height="50" width="50" /></a>
 <a href="https://ieee-collabratec.ieee.org/app/p/madushan_ilangakoon" target="blank"><img align="center" src="https://github.com/MadushanIlangakoon/MadushanIlangakoon/blob/main/ieee_logo_icon_169992.svg" alt="madushan-ilangakoon" height="50" width="50" /></a>
 <a href="https://fb.com/kmadushan1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kmadushan1998" height="50" width="50" /></a>
